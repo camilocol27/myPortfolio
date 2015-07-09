@@ -1,0 +1,44 @@
+.form-section{
+	  background-color: silver;
+	  // width: 97.2%;
+	  height: 750px;
+	  padding-top: 150px;
+	  padding-left: 16px;
+	  padding-right: 10px
+}
+#name-box{
+	background-color: silver;
+	color: white;
+	border: 0;
+	border-bottom: 1px solid rgb(24, 109, 226);
+	width: 45%;
+	height: 42px;
+}
+.button-send{
+	  background-color: rgb(24, 109, 226);
+	  color: white;
+	  font-size: 25px;
+	  font-weight: italic;
+	  width: 350px;
+	  height: 45px;
+	  margin-top: 45px;
+	  margin-left: 158px;
+	  border: 0;
+	  box-shadow: 0 2px 2px rgb(8, 0, 108);
+}
+.button-send:hover{
+	background-color: #00B0FF;
+
+}
+#labl-name{
+	color: #fff;
+	font-size: 18px;
+	
+}
+textarea{
+  width: 48% auto;
+  height: 250px;
+  border: 1px solid rgb(77, 124, 189);
+  box-shadow: 0 2px 2px rgb(23, 16, 114)
+	
+}
